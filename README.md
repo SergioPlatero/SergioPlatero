@@ -2,7 +2,6 @@
 
 - 🌱 Currently reading: 
 Annihilation, by Jeff VanderMeer
-The Tyranny of Metrics, by Jerry Muller
 
 
 <!---
